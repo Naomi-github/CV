@@ -4,10 +4,10 @@ Junior software engineer looking to be part of a team that values inclusivity, f
 
 ## Projects
 
-| Name                 | Description                                      | Tech/tools        |
-| ---------------------| -----------------                                | ----------------- |
-| E-portfolio          | A website portfolio to showcase my projects      | React, HTML, CSS  |
-| Bowling Score Card   | Logic to keep score in a game of ten-pin bowling | JavaScript, Jest  |
+| Name                 | Description                                      | Tech/tools        | Link                                    |
+| ---------------------| -----------------                                | ----------------- | -----------------                       |
+| E-portfolio          | A website portfolio to showcase my projects      | React, HTML, CSS  | https://naomis-portfilio.herokuapp.com/ |
+| Bowling Score Card   | Logic to keep score in a game of ten-pin bowling | JavaScript, Jest  | N/A                                     |
 
 ## Experience
 
