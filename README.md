@@ -6,7 +6,9 @@ Junior software engineer looking to be part of a team that values inclusivity, f
 
 | Name                 | Description                                      | Tech/tools        | Link                                    |
 | ---------------------| -----------------                                | ----------------- | -----------------                       |
-| E-portfolio          | A website portfolio to showcase my projects      | React, HTML, CSS  | https://naomis-portfilio.herokuapp.com/ |
+| Acebook          | Social media site based on Facebook, developed in an agile team using sprints.
+Features included authentication on login using JWT tokens, commenting on posts, liking posts with a variety of reactions and uploading pictures
+     | MERN stack, Jest, Cypress  | https://naomis-portfilio.herokuapp.com/ |
 | Bowling Score Card   | Logic to keep score in a game of ten-pin bowling | JavaScript, Jest  | N/A                                     |
 
 ## Experience
