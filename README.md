@@ -9,7 +9,7 @@ Junior software engineer looking to be part of a team that values inclusivity, f
 - Version control: Git, Github
 
 ## Projects 
-#### Please also take a look at my portfolio for some of my projects: https://naomis-portfilio.herokuapp.com/ 
+#### Please also take a look at my portfolio for some of my projects: https://naomiportfolio.herokuapp.com/
 
 | Name                 | Description           | Features                 | Tech/tools        | 
 | ---------------------| -----------------     | -----------------        | ----------------- | 
