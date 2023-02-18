@@ -2,14 +2,12 @@
 
 Junior software engineer looking to be part of a team that values inclusivity, feedback, continual growth and communication. 4 years experience as an administrator, skilled in prioritising and efficiently self-managing workload, reliable and consistently accurate data entry. Due to complete the Makers Academy bootcamp February 2023, where I have learnt to value test-driven development and agile team environments. 
 
-## Projects
+## Projects ### Please also take a look at my portfolio for some of my projects: https://naomis-portfilio.herokuapp.com/ 
 
-| Name                 | Description                                      | Tech/tools        | Link                                    |
-| ---------------------| -----------------                                | ----------------- | -----------------                       |
-| Acebook          | Social media site based on Facebook, developed in an agile team using sprints.
-Features included authentication on login using JWT tokens, commenting on posts, liking posts with a variety of reactions and uploading pictures
-     | MERN stack, Jest, Cypress  | https://naomis-portfilio.herokuapp.com/ |
-| Bowling Score Card   | Logic to keep score in a game of ten-pin bowling | JavaScript, Jest  | N/A                                     |
+| Name                 | Description                                      | Tech/tools        | 
+| ---------------------| -----------------                                | ----------------- | 
+| Acebook              | - Social media site based on Facebook, developed in an agile team using sprints. - Features included authentication on login using JWT  tokens, commenting on posts, liking posts with a variety of reactions and uploading pictures. | MERN stack, Jest, Cypress |
+| Bowling Score Card   | Logic to keep score in a game of ten-pin bowling | JavaScript, Jest  |
 
 ## Experience
 
